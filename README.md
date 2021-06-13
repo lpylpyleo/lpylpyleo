@@ -2,7 +2,7 @@
 
 Hi, everyone! I'm Spike, a front-end developer who is focusing on flutter at present.
 
-I have been engaged in flutter for more than 2 years and have deliverred several midium scale apps.
+I have been engaged in flutter for more than 2 years and have successfully delivered several midium scale apps.
 
 **Looking for remote full-time and part-time job now**
 
